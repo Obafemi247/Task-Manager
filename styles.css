@@ -1,0 +1,130 @@
+body {
+	border: 10px  solid maroon;
+width: 950px;
+height: 600px;
+margin-left: 200px;
+align-items: center;
+background-color: lime;
+border-radius: 20px;
+padding: 20px;
+text-align: center;
+}
+		
+
+
+h1 {
+	text-align:center;
+	background-color: rosybrown;
+	color:olive;
+	margin:10px 20px;
+	border-radius: 20px;
+
+}
+
+#statement{
+	width: 550px;
+	height: 30px;
+}
+#search{
+	font-size: 16px;
+	width: 300px;
+	height:30px;
+	position:;
+}
+
+
+.bar1, .bar2, .bar3 {
+  width: 30px;
+  height: 2px;
+  background-color: green;
+  margin: 6px 0;
+  border-radius: 2px;
+
+  }
+  #welcome {
+  	float: right;
+  	font-size: 18px;
+color:green;
+background-color: honeydew;
+border: 2px line maroon;
+padding: 30px;
+margin-left: 180px;
+width:400px;
+display: none;
+border-radius: 15px;
+}
+
+
+.leftside{
+	 float: left;
+ width: 59%;
+  height: 500px;
+  padding: 20px;
+  color:rgb(35 24 27);
+}
+
+#task{
+	font-size: 16px;
+	width: 300px;
+	height: 40px;
+	font-family: italic;
+}
+#mark {
+	font-size: 13pt;
+	background-color: lightblue;
+	border-color: black;
+	cursor: pointer;}
+
+ #edit {
+ 	font-size: 15pt;
+	background-color: lightblue;
+	border-color: black;
+	cursor: pointer;}
+
+.add-task {
+	color:orange;
+	float: left;
+ 	font-size: 20pt;
+ 	background-color: #D03889;
+ 	border-color: maroon;
+ 	 cursor: pointer;
+ }
+ 
+
+.rightside{
+	float: right;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  width: 125px;
+  height: 60px;
+  margin-right: 200px;}
+
+
+
+
+#completed {
+border: 2px solid #FfECB0;
+width: 300px;
+height: 30px;
+padding-top: 10px;
+border-radius: 7px;
+text-align: center;
+cursor: pointer;
+
+}
+#taskadded {
+width: 300px;
+height: 300px;
+border: 1px solid;
+font-size: 16px;
+background-color: orange;
+display:inline-block;
+}
+
+#space {
+border: 2px solid #FFECB3;
+width: 200px;
+height: 300px;
+border-radius: 7px;
+}
